@@ -1,7 +1,7 @@
 <h1 left="center">Hi, I'm Kai</h1>
 <h3 left="center">I'm a creative and hardworking individual, looking to start a career in software development. I have a unique background in mental health psychology, with a concentration in computer science.</h3>
 
-- 🔭 I’m currently working on [football-scheduler](temp)
+- 🔭 I’m currently working on [studioyu.ca](https://www.studioyu.ca/)
 - 👨‍🎓 Bsc in Psychology and Minor in Computer Science from the University of Victoria
 - 🌱 I’m currently learning **JavaScript, React**
 - 👨‍💻 Portfolio: [https://www.kairyallota.ca/](https://www.kairyallota.ca/)

@@ -1,9 +1,9 @@
 <h1 left="center">Hi, I'm Kai</h1>
-<h3 left="center">I'm a creative and hardworking individual, looking to start a career in software development. I have a unique background in mental health psychology, with a concentration in computer science.</h3>
+<h3 left="center">I'm a junir software developer with a unique background in mental health psychology, with a concentration in computer science and cybersecurity.</h3>
 
-- 🔭 I’m currently working on [studioyu.ca](https://www.studioyu.ca/)
-- 👨‍🎓 Bsc in Psychology and Minor in Computer Science from the University of Victoria
-- 🌱 I’m currently learning **JavaScript, React**
+- 🔭 I’m currently working on [LilyPad](https://lilypad-c5k.pages.dev/)
+- 👨‍🎓 Bsc in Psychology and Minor in Computer Science from the University of Victoria, Graduate Certificate in Cybersecurity from St. Lawrence College
+- 🌱 I’m currently learning **Django**
 - 👨‍💻 Portfolio: [https://www.kairyallota.ca/](https://www.kairyallota.ca/)
 - 📫 How to reach me **kai.ryallota@gmail.com**
 ## 🌐 Socials:

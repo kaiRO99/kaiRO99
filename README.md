@@ -1,5 +1,5 @@
 <h1 left="center">Hi, I'm Kai</h1>
-<h3 left="center">I'm a junir software developer with a unique background in mental health psychology, with a concentration in computer science and cybersecurity.</h3>
+<h3 left="center">I'm a junior software developer with a unique background in mental health psychology, with a concentration in computer science and cybersecurity.</h3>
 
 - 🔭 I’m currently working on [LilyPad](https://lilypad-c5k.pages.dev/)
 - 👨‍🎓 Bsc in Psychology and Minor in Computer Science from the University of Victoria, Graduate Certificate in Cybersecurity from St. Lawrence College
